@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm YeonUk Kim
+# AI / 3D Vision을 공부하고 있는 김연욱입니다.
 
 <div align="center">
   
@@ -81,8 +81,3 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 
 ---
 
-<div align="center">
-
-*"Learning never exhausts the mind." - Leonardo da Vinci*
-
-</div>
