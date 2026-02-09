@@ -77,7 +77,7 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 ## 📫 Contact Me
 
 - 📧 Email: kimyeonuk0120@gmail.com
-- 📄 [My CV](https://github.com/YeonUk-Kim0120/my_CV)
+- 📄 [My CV](./cv-llt.pdf)
 
 ---
 
