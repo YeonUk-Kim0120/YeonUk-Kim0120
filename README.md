@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonUk-Kim0120&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=YeonUk-Kim0120&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -68,9 +68,9 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 
 <div align="center">
 
-![YeonUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonUk-Kim0120&show_icons=true&theme=radical)
+![YeonUk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YeonUk-Kim0120&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonUk-Kim0120&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YeonUk-Kim0120&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
