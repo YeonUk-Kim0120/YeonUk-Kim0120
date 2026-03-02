@@ -1,11 +1,5 @@
 # AI / 3D Vision을 공부하고 있는 김연욱입니다.
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YeonUk-Kim0120&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
-
 ## 🎓 Education
 
 - **M.S. in Computer Science** @ Korea University (2026 ~ Present)
@@ -19,9 +13,7 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 ## 💼 Experience
 
 - 🔭 **Research Intern** @ CVIPL, KIST (2025.06 ~ Present)
-  - Advisor: Dr. Donghwan Kim
 - 🎓 **Undergraduate Research Assistant** @ HSIR Lab, Hongik University (2024.07 ~ 2025.06)
-  - Advisor: Prof. Jaeyoung Park
 - 👨‍🏫 **Coding Instructor** @ Mapo-gu - Hongik University Coding Academy (2025.03 ~ 2025.06)
 - 💻 **Frontend Track Member** @ GDSC Hongik University (2023.09 ~ 2024.02)
 
@@ -78,6 +70,12 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 
 - 📧 Email: kimyeonuk0120@gmail.com
 - 📄 [My CV](./cv-llt.pdf)
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=YeonUk-Kim0120&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
