@@ -1,15 +1,20 @@
-# AI / 3D Vision을 공부하고 있는 김연욱입니다.
+# My research interests are
+- Computer Vision 
+- 3D Vision 
+- Robotics 
+- AI/ML
 
-## 🎓 Education
+
+<!-- ## 🎓 Education
 
 - **M.S. in Computer Science** @ Korea University (2026 ~ Present)
 - **B.S. in Computer Engineering** @ Hongik University (2020 ~ 2026)
-  - GPA: 4.11 / 4.5 | Major GPA: 4.29 / 4.5
+  - GPA: 4.11 / 4.5 | Major GPA: 4.29 / 4.5 
 
 ## 🔬 Research Interests
 
 Computer Vision · 3D Vision · Robotics · AI/ML
-
+-->
 ## 💼 Experience
 
 - 🔭 **Research Intern** @ CVIPL, KIST (2025.06 ~ Present)
@@ -25,7 +30,7 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 ### Conference Proceedings  
 - Ko, B., **Kim, Y.**, Yun, G., Jo, S. H., Kim, S.-W., & Kim, D. H. (2026). "Tomato Crop Structure Analysis Using Multimodal Feature Splatting for Tomato Harvesting Robot" - *KRoC 2026*
 - **Kim, Y.**, Hwang, J., & Park, J. (2025). "Vector Information Transfer through a Mobile Device Using Virtual Vibration Rendering" - *KSII Spring Conference 2025*
-
+<!-- 
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -54,7 +59,7 @@ Computer Vision · 3D Vision · Robotics · AI/ML
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) -->
 
 ## 📊 GitHub Stats
 
